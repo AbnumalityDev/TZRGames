@@ -8,6 +8,10 @@
       "name": "start",
       "command": "start",
       "runAtStart": true
+    },
+    "run": {
+      "name": "run",
+      "command": "run"
     }
   }
 }
